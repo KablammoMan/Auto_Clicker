@@ -12,3 +12,4 @@ while True:
         quit()
     elif running==True:
         mouse.click("left")
+        time.sleep(0.01)
